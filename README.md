@@ -18,3 +18,11 @@ Have you seen any of the 6 films in the Star Wars franchise? - Has a Yes or No r
 Do you consider yourself to be a fan of the Star Wars film franchise? - Has a Yes or No response
 
 There are several other columns containing answers to questions about the Star Wars movies. For some questions, the respondent had to check one or more boxes. This type of data is difficult to represent in columnar format, and hence, needs a good amount of cleaning.
+
+Here are some potential next steps:
+
+Try to segment the data based on columns like Education, Location (Census Region), and Which character shot first?, which aren't binary. Are they any interesting patterns?
+Clean up columns 15 to 29, which contain data on the characters respondents view favorably and unfavorably.
+Which character do respondents like the most?
+Which character do respondents dislike the most?
+Which character is the most controversial (split between likes and dislikes)?
