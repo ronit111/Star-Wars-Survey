@@ -1,6 +1,6 @@
 # Star-Wars-Survey
 
-In this guided project of DataQuest, I'll be working with Jupyter notebook and analyzing data on the Star Wars movies. 
+In this guided project of DataQuest, I worked with Jupyter notebook for analyzing data on the Star Wars movies. 
 
 While waiting for Star Wars: The Force Awakens to come out, the team at FiveThirtyEight became interested in answering some questions about Star Wars fans. In particular, they wondered: does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?
 
